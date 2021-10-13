@@ -1,0 +1,10 @@
+Dan Cristian Deac, 50, Databases, Fundamental algorithms
+Isaac Newton, 60, Physics
+Galileo Galilei, 60, Philosophy
+Thomas Alva Edison, 60, Physics
+Leonardo da Vinci, 60, Art
+Stephen Hawking, 60, Theoretical Physics
+Terence Tao, 60, Mathematics
+Christopher Langan, 60, Mathematics
+Kim Ung-Yong, 60, Astronomy
+Judit Polgar, 60, Chess

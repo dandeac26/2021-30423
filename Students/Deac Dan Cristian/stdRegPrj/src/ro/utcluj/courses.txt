@@ -1,0 +1,14 @@
+Special mathematics in engineering, 5, 22, 33, 44
+English, 2, 55
+Electronic measurements and sensors, 5, 66
+Fundamental algorithms, 5, 77
+Object oriented programming, 5, 88, 99
+Analog and digital circuits, 4, 100
+Databases, 4, 111
+Philosophy, 3, 122
+Physics, 5, 133
+Art, 2, 144
+Theoretical Physics, 6, 200, 400
+Mathematics, 5, 2020
+Astronomy, 4, 1111, 1112
+Chess, 3, 10
